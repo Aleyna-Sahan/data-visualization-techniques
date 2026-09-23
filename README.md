@@ -1,4 +1,3 @@
-cat << 'EOF' > README.md
 # 📊 Veri Görselleştirme Teknikleri & Tarımsal Veri Analizi
 
 Bu proje, Python'ın veri görselleştirme kütüphanelerini (`matplotlib`, `seaborn`, `squarify`, `wordcloud`) kullanarak Türkiye'nin tarımsal gübre tüketimi ve bitki besin maddesi dağılım verilerini çok boyutlu görselleştirme teknikleriyle inceleyen kapsamlı bir portföy çalışmasıdır.
