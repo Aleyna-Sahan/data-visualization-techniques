@@ -1,0 +1,10 @@
+cat << 'EOF' > requirements.txt
+pandas
+numpy
+openpyxl
+matplotlib
+seaborn
+squarify
+wordcloud
+jupyter
+EOF
